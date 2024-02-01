@@ -31,7 +31,7 @@ The user interface, structured with HTML, ensures a seamless and intuitive inter
     
     • Deployment 
 
-    • Django
+    • Streamlit
 
     • PyCharm 
     
@@ -50,17 +50,6 @@ The user interface, structured with HTML, ensures a seamless and intuitive inter
 
    - Run 
 
-## HOME PAGE:
-
-![](https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/HOME%20PAGE.png?raw=true)
-
-## FORM PAGE:
-
-![](https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/FORM.png?raw=true)
-
-### RESULT PAGE:
-
-![](https://github.com/Nikhilkori03/Diabetes-Prediction/blob/main/Result.png?raw=true)
 
 ## Dataset Constraints:
 Several constraints were methodically imposed during the selection of instances from a larger database. In particular, the dataset comprises exclusively female patients, all of Pima Indian heritage, and who are at least 21 years old. These constraints aim to tailor the analysis to a specific demographic for more targeted and meaningful insights.
@@ -70,8 +59,8 @@ Several constraints were methodically imposed during the selection of instances 
 ### Prediction of Diabetes:
 The primary objective revolves around the development and deployment of machine learning models capable of predicting the likelihood of diabetes in the specified demographic. This involves employing statistical methodologies to discern patterns and relationships within the data.
 
-### Deployment with Django:
-The project goes beyond the realm of model development, extending into the practical domain through the deployment of the predictive model. Django, a powerful web framework for Python, is utilized to create a robust and interactive platform for end-users.
+### Deployment with Streamlit:
+The project goes beyond the realm of model development, extending into the practical domain through the deployment of the predictive model. Streamlit, a powerful web framework for Python, is utilized to create a robust and interactive platform for end-users.
 
 #### User Interface with HTML: 
 HTML is employed for structuring the user interface, ensuring a seamless and intuitive experience for individuals interacting with the deployed model. The web application facilitates easy input of diagnostic measurements and provides clear outputs regarding the likelihood of diabetes.
@@ -82,8 +71,8 @@ HTML is employed for structuring the user interface, ensuring a seamless and int
 Advanced algorithms and techniques are employed for the development of predictive models, utilizing features within the dataset to make accurate predictions.
 #### Statistics: 
 Statistical analysis is pivotal in unraveling insights from the dataset, providing a deeper understanding of the relationships and correlations between different variables.
-#### Deployment using Django: 
-The practical implementation of the machine learning model is achieved through the deployment capabilities of the Django framework, ensuring accessibility for users.
+#### Deployment using Streamlit: 
+The practical implementation of the machine learning model is achieved through the deployment capabilities of the streamlit framework, ensuring accessibility for users.
 #### HTML: 
 The creation of an aesthetically pleasing and user-friendly interface is facilitated through HTML, contributing to a seamless user experience.
 #### Python: 
